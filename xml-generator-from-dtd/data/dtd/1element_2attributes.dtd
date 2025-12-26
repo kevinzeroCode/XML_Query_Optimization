@@ -1,0 +1,3 @@
+<!ELEMENT square EMPTY>
+<!ATTLIST square number CDATA #REQUIRED>
+<!ATTLIST square type ("Mr or Mrs"|"Mr") "Mr or Mrs">

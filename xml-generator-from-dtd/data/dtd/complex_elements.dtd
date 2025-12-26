@@ -1,0 +1,9 @@
+<!ELEMENT Course_Catalog (Department*)>
+<!ELEMENT Department (Title, Course+, Lecturer*)>
+<!ELEMENT Title (#PCDATA)>
+<!ELEMENT Course (#PCDATA)>
+<!ELEMENT Lecturer (#PCDATA)>
+<!ELEMENT games (game*)>
+<!ELEMENT game (home-team, reds?)>
+<!ELEMENT home-team (#PCDATA)>
+<!ELEMENT reds (#PCDATA)>

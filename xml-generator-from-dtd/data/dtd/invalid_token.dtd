@@ -1,0 +1,3 @@
+<!ELEMENT square EMPTY>
+<!ATTLIST square width CDATA "0">
+<!attlist square width CDATA "0">

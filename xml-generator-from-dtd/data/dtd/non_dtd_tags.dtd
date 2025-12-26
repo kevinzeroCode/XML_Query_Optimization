@@ -1,0 +1,5 @@
+<!ELEMENT note (to,from)>
+<!ELEMENT to (#PCDATA)>
+<!ELEMENT from (#PCDATA)>
+<html>
+</html>

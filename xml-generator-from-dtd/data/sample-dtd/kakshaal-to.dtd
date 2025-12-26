@@ -1,0 +1,7 @@
+<!-- Какшаал Тоо -->
+<!-- https://bg.wikipedia.org/wiki/%D0%A1%D0%B2%D0%B8%D0%B4%D0%B5%D1%82%D0%B5%D0%BB -->
+<!ELEMENT article (image, image, image, image, image, text, title, title, text, title, text, text, text, text, text, title, title)>
+<!ELEMENT text (#PCDATA)>
+<!ELEMENT title (#PCDATA)>
+<!ELEMENT image EMPTY)>
+<!ATTLIST image src CDATA "">

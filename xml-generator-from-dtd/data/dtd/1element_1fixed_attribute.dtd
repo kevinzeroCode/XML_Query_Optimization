@@ -1,0 +1,2 @@
+<!ELEMENT square EMPTY>
+<!ATTLIST square company CDATA #FIXED "Microsoft">

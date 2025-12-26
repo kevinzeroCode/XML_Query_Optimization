@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>{{ project_name }}</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+    <link rel="stylesheet" href="https://www.w3schools.com/lib/w3-theme-black.css">
+    <link href="https://fonts.googleapis.com/css?family=Fira+Code&display=swap" rel="stylesheet">
+</head>
+<body class="w3-theme-l1">
+
+<script src="{{ url_for('static', filename='node_modules/monaco-editor/min/vs/loader.js') }}"></script>
+<script type="text/javascript">
+    function htmlDecode(input){
+        let tmpElement = document.createElement('textarea');
+        tmpElement.innerHTML = input;
+        return tmpElement.childNodes.length === 0 ? "" : tmpElement.childNodes[0].nodeValue;
+    }
+
+    function splitTagsOnNewLines(input) {
+        return input.replace(/</g, "\n<").replace(/>/g, ">\n").replace(/>\s+</g, ">\n<");
+    }
+
+    xmlContent = htmlDecode('{{xml_to_edit}}');
+    xmlContent = splitTagsOnNewLines(xmlContent)
+
+    require.config({ paths: { 'vs': "{{ url_for('static', filename='node_modules/monaco-editor/min/vs') }}" }});
+    require(['vs/editor/editor.main'], function() {
+        monaco.editor.setTheme('vs-dark');
+        editor = monaco.editor.create(document.getElementById('edited_xml'), {
+            value: xmlContent,
+            language: 'html',
+            formatOnPaste: true,
+            formatOnType: true,
+            fontFamily: 'Fira Code',
+            fontLigatures: true,
+            fontSize: 14,
+        });
+        setTimeout(function() {
+            editor.getAction('editor.action.formatDocument').run();
+        }, 500);
+    });
+
+    function saveTextAsFile()
+    {
+        // var textToSave = document.getElementById("edited_xml").value;
+        var textToSave = editor.getValue();
+        var textToSaveAsBlob = new Blob([textToSave], {type:"text/plain"});
+        var textToSaveAsURL = window.URL.createObjectURL(textToSaveAsBlob);
+        var fileNameToSaveAs = document.getElementById("inputFileNameToSaveAs").value + '.xml';
+
+        var downloadLink = document.createElement("a");
+        downloadLink.download = fileNameToSaveAs;
+        downloadLink.innerHTML = "Download File";
+        downloadLink.href = textToSaveAsURL;
+        downloadLink.onclick = destroyClickedElement;
+        downloadLink.style.display = "none";
+        document.body.appendChild(downloadLink);
+
+        downloadLink.click();
+    }
+
+    function destroyClickedElement(event)
+    {
+        document.body.removeChild(event.target);
+    }
+ </script>
+<header class="w3-container w3-dark-gray">
+    <h1 align="center"> {{ project_name }} </h1>
+</header>
+
+<div class="w3-panel w3-dark-gray w3-card-4">
+    <p>Генерираният файл:</p>
+
+    <div id="edited_xml" style="font-size: 12pt;width:100%;height:30vw"></div>
+
+    <p>Име на файла</p><input id="inputFileNameToSaveAs"></input>
+    <button onclick="saveTextAsFile()">Сваляне</button>
+
+</div>
+</body>
+</html>

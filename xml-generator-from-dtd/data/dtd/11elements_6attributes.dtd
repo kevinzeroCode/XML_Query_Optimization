@@ -1,0 +1,17 @@
+<!ELEMENT Course_Catalog (Department*)>
+<!ELEMENT Department (Title, Course+, Lecturer*)>
+<!ATTLIST Department Code ID #REQUIRED>
+<!ATTLIST Course_Catalog Year CDATA #FIXED "2017-2018">
+<!ELEMENT Title (#PCDATA)>
+<!ELEMENT Course (Title, Description?)>
+<!ATTLIST Course Number ID #REQUIRED>
+<!ELEMENT Description (Courseref)*>
+<!ELEMENT Courseref EMPTY>
+<!ATTLIST Courseref Number IDREF #REQUIRED>
+<!ELEMENT Professor (First_Name, Middle_Initial?, Last_Name)>
+<!ATTLIST Professor InstrID ID #REQUIRED>
+<!ELEMENT Lecturer (First_Name, Middle_Initial?, Last_Name)>
+<!ATTLIST Lecturer InstrID ID #REQUIRED>
+<!ELEMENT First_Name (#PCDATA)>
+<!ELEMENT Middle_Initial (#PCDATA)>
+<!ELEMENT Last_Name (#PCDATA)>

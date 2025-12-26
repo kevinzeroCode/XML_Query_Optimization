@@ -1,0 +1,2 @@
+<!ELEMENT games (game)|>
+<!ELEMENT game (#PCDATA)>

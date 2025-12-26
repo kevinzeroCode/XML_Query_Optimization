@@ -1,0 +1,37 @@
+# --- Python ---
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+# 忽略虛擬環境 (包含你常用的 venv, finenv, conda env)
+venv/
+env/
+.env
+.venv/
+anaconda3/
+
+# --- Java (dtd-tools 工具包) ---
+# 我們不傳 jar 檔，使用者應該用 script 下載
+*.jar
+*.class
+
+# --- Data (生成的巨大 XML 檔案) ---
+# 忽略 xml-data 資料夾下所有的 xml
+xml-data/*.xml
+# 但保留 sample.xml (如果你想留一個範例給人看的話，這行可留可不留)
+!xml-data/sample.xml
+
+# 忽略 dtd-tools 裡面生成的暫存 XML
+dtd-tools/nitf_sample*.xml
+dtd-tools/*.log
+
+# --- Database (Docker) ---
+# 忽略 Postgres 的資料庫存檔 (非常重要！不能傳！)
+xml-db/pgdata/
+mongo-data/
+
+# --- IDE & System ---
+.DS_Store
+.vscode/
+.idea/
+*.swp
