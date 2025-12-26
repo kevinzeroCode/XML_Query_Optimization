@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nitf baselang="兗忊ɘꕓሻ" uno="섿" version="-//IPTC//DTD NITF 3.0//EN">
+    <head id="灬">
+        <meta content="Ǿ鼵ꀷ꓋ꕂኈ慤䰁㲧Ϲ戀ㅟ" id="熸堑齮濳敯꫶" name="롰餄蛶ࣹ䓊烢㚆ᡋ㹚䜁襔ꮤ"/>
+        <docdata id="롰餄蛶ࣹ䓊烢㚆ᡋ㹚䜁襔ꮤ">
+            <fixture/>
+        </docdata>
+        <pubdata edition.area="ꖓ᪝佴䢯퐙遍鿌獱狡⤿" issn="⸊⚸鉭偨纪ꍴ쵟쬜⓫쀈"
+            issue="Ტ鲋" item-length="퍏ꠧ᧌ⴼ爝﵂鈱隷紸ꤱ╱碑懲搃ᷗ" position.section="ꛕ骐ԓ뿳堛຤"/>
+        <revision-history comment="Ἧ⼤䆏艊ȏ꠯锑쌒ᕎ∡媰繗" norm="Ḧ"/>
+    </head>
+    <body style="ሚ睔휍똣め䕧튰櫧쫖驙">
+        <body.head id="㜂箤犌厜쫰ᩲ봜浯쵿锛舦諢迷">
+            <dateline
+                class=" 웚귒背  砉邸茑뫩π䘖  踛ꟺ앷㞾穚糦덊恛ᴸ  펱  取辍뵒渠䢥ゑ誕읞  ᚼꅪᤩ髧䍎킉ꋭૐ脍啁翎ꨄ  灢驗ꅩ꿲錑ᐻ  즨膺ꠊ뱚쪘ᨘᲿ쀁퀢쿛뾘  鼱ਲ  擩  颯ꑢ붉琊䨾焰໎  뗃ᾬ뱚  쌸嶸㙗刕硍죤ĩ律䪏艅퐰뒱ᠣ裖抟 " id="蒹횲爸燼䧺琪퀑">觉䴘ꅳ∅V콊䳘袈ｨ냗亯</dateline>
+        </body.head>
+        <body.content id="迒튧䕞㱒㖎ꨁ啭毈囨">
+            <ul
+                class=" 륊왲録ᵏ渡覱囕  껝脸蟡  渫ꚟ蹕ꯌ櫍䚝ꐁ鍞살㠋政뙀䒣ἰẳ  ᎽϿꀯ庅孽ễ긨맹阬抣Ʈ洀謝䣱ꥦ  㴷ҜꙨ㟦韭Ȅ暌븺뵓啌颜  碪摳燔篙ᧀᒎ鰽椥偾쨹  頙ꅀ熟텨文쿢〆银ᅩ  ⴡ뷖Ὤꉫ  璄জ嚇圸䦣澧㿌儯囓㡺丟  㫆Ԛ뚉ᗪꋥ몋惄ㆲ  ᐤᕁ  뒫 " style="鍣✝ﴉ">
+                <li id="딎૫꿌䮙넳쥶씪궹莀嚽箉铸鮫">
+                    <q>㖦ộ×꜡쬴⏡æ</q>᩽᫊䚱퐠몒</li>
+                <li>ὸ慈鼳ꔳ碬ꓯ䑏纛<a></a>
+                </li>
+            </ul>
+            <p lede="false">
+                <num class=" 䦹䳼뢪쇃ࢰ罒齴胥럫֗㪤ᜏ骼佊룒  Ю瞫秞玉춄㔝䘥霔ሑṄ穑Ὑ  睾  胪Ť ">
+                    <frac>
+                        <numer>歨熖</numer>
+                        <denom>⯴⎑똺ងჇ</denom>
+                    </frac>ጼਫ超臘緖㐽훀靚Ꮬ</num>䕠ほ慔ᾧ雚녒鿜媇咰</p>
+        </body.content>
+        <body.content id="봆䝞윞ᡖ닙ୄ淔ꎄ쑴㢩娑叐뜘">
+            <ol>
+                <li style="矏ⶳ㲗坁퀑寁繸">
+                    <org>䕽剏巯䦕</org>皭쥱쉮ᅻĒ耘쨨T</li>
+            </ol>
+        </body.content>
+    </body>
+</nitf>

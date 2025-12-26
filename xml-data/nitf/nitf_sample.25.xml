@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nitf uno="⸊⚸鉭偨纪ꍴ쵟쬜⓫쀈" version="-//IPTC//DTD NITF 3.0//EN">
+    <body
+        class=" 웚귒背  砉邸茑뫩π䘖  踛ꟺ앷㞾穚糦덊恛ᴸ  펱  取辍뵒渠䢥ゑ誕읞  ᚼꅪᤩ髧䍎킉ꋭૐ脍啁翎ꨄ  灢驗ꅩ꿲錑ᐻ  즨膺ꠊ뱚쪘ᨘᲿ쀁퀢쿛뾘  鼱ਲ  擩  颯ꑢ붉琊䨾焰໎  뗃ᾬ뱚  쌸嶸㙗刕硍죤ĩ律䪏艅퐰뒱ᠣ裖抟 " style="쑮Ⴘ턄鵩銺럶⯸킐፴Ꮗ䉅杁ꃆ栜쓰">
+        <body.head id="垡间㵖䆹櫈帢પ扭遆虽㼥훠즢轤鳚">
+            <rights>ᷥᏩ鵊慓</rights>
+            <distributor id="쉏쫗㖾䌤Ꭼ">
+                <org id="쑢Ӣ" idsrc="虳攇ꅋ">咰巣᧣ꕎẩ돦Ⴖ뱸<alt-code
+                        idsrc="娯湒䞑螗롦ﰝ뭴쪢嵋᷺㍵堀㸈" value="益閒自蟘ֳ䧃韛늓⮙ይ 發"/>
+                </org>
+                <org id="䩩ᭅ" value="ᾔ곱榍驶젪汋☶">髥섑纔ꤖ턒걨ﳧ桍</org>胦偯ⴈᖹ潉</distributor>
+            <series id="믪叭筶缀㑏쓑Ꙩ뮼ം葵㰁蹕鮨滿" series.name="꠸븞甄௡還"
+                series.part="碪摳燔篙ᧀᒎ鰽椥偾쨹" series.totalpart="蹴堊䩺ꧬ磱럗ᰑ骰頥뤑扆構史耢"/>
+        </body.head>
+        <body.content id="䑠끕굕鸞㴈釠ොᩖ骮嵣"/>
+        <body.content id="ꍺ瘭ẁ鸕灬账ጒ䅛爩">
+            <nitf-table id="랂">
+                <nitf-table-metadata row-count="￐윞嚆䆄櫙⋱" style="ﰬ䊚遨⻼壺䳎ﬄ喳">
+                    <nitf-col/>
+                    <nitf-col/>
+                    <nitf-col/>
+                </nitf-table-metadata>
+                <table-reference id="㚂蒻厛唆蜫㹙ᰝ" idref="㮘᧕Ϝ돋蓡⿘啶逋ﲒ"/>
+            </nitf-table>
+        </body.content>
+    </body>
+</nitf>

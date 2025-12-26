@@ -1,0 +1,169 @@
+<bips version="1.0">
+
+<message-id sender-id="jflynn@worktechs.com" date="19980504" sequence="2"/>
+
+<payment-request>
+
+<payment-request-id>1</payment-request-id>
+
+<reference>payroll</reference>
+
+<execution-date>
+
+<month>05</month>
+
+<day>04</day>
+
+<year>1998</year>
+
+</execution-date>
+
+<payment-network>
+
+<ach type="ccd"/>
+
+</payment-network>
+
+<amount>1000</amount>
+
+<payor>
+
+<entity>
+
+<name>Jim Flynn</name>
+
+<location>
+
+<address>111 John Street</address>
+
+<address>Suite 2509</address>
+
+<city>New York</city>
+
+<region>NY</region>
+
+<postal>10038</postal>
+
+</location>
+
+<phone>(212) 571-3222</phone>
+
+<fax>(212) 571-3213</fax>
+
+<email>jflynn@worktechs.com</email>
+
+</entity>
+
+<bank-customer-info>
+
+<bank>
+
+<bank-code type="trn">12345678</bank-code>
+
+<entity>
+
+<name>Citibank</name>
+
+<location>
+
+<address>3rd Avenue</address>
+
+<address></address>
+
+<city>New York</city>
+
+<region>NY</region>
+
+<postal>10022</postal>
+
+</location>
+
+<phone>(212) 555-5555</phone>
+
+<fax>(212) 444-4444</fax>
+
+<email>info@citicorp.com</email>
+
+</entity>
+
+</bank>
+
+<account type="checking">87654321</account>
+
+</bank-customer-info>
+
+</payor>
+
+<payto>
+
+<entity>
+
+<name>Bill Clarke</name>
+
+<location>
+
+<address>4 Jeferson Street</address>
+
+<address>Apt 4D</address>
+
+<city>Hoboken</city>
+
+<region>NJ</region>
+
+<postal>98765</postal>
+
+</location>
+
+<phone>(201) 799-1122</phone>
+
+</entity>
+
+<bank-customer-info>
+
+<bank>
+
+<bank-code type="trn">87654321</bank-code>
+
+<entity>
+
+<name>Mellon Bank</name>
+
+<location>
+
+<address>3 Mellon Bank Plaza</address>
+
+<city>Pittsburgh</city>
+
+<region>PA</region>
+
+<postal>99999</postal>
+
+</location>
+
+<phone>(333) 333-3333</phone>
+
+<fax>(333) 333-3232</fax>
+
+<email>info@melon.com</email>
+
+</entity>
+
+</bank>
+
+<customer-id>22222222</customer-id>
+
+</bank-customer-info>
+
+</payto>
+
+</payment-request>
+
+<signature-info>
+
+<signature algorithm="DSA">MCwCFFLeSiaBHjxirD/J21+fWI8/9SEOAhRpk8HSKZFOCSzZJbbYm9bn3jvmCA==</signature>
+
+<certificate>MIIC9zCCArQCBDUjfAYwCwYHKoZIzjgEAwUAMGExCzAJBgNVBAYTAlVTMQswCQYDVQQIEwJOWTERMA8GA1UEBxMITmV3IFlvcmsxDjAMBgNVBAoTBUBXb3JrMQ4wDAYDVQQLEwVAV29yazESMBAGA1UEAxMJSmltIEZseW5uMB4XDTk4MDQwMjExNTIzOFoXDTk4MDcwMTExNTIzOFowYTELMAkGA1UEBhMCVVMxCzAJBgNVBAgTAk5ZMREwDwYDVQQHEwhOZXcgWW9yazEOMAwGA1UEChMFQFdvcmsxDjAMBgNVBAsTBUBXb3JrMRIwEAYDVQQDEwlKaW0gRmx5bm4wggG3MIIBLAYHKoZIzjgEATCCAR8CgYEA/X9TgR11EilS30qcLuzk5/YRt1I870QAwx4/gLZRJmlFXUAiUftZPY1Y+r/F9bow9subVWzXgTuAHTRv8mZgt2uZUKWkn5/oBHsQIsJPu6nX/rfGG/g7V+fGqKYVDwT7g/bTxR7DAjVUE1oWkTL2dfOuK2HXKu/yIgMZndFIAccCFQCXYFCPFSMLzLKSuYKi64QL8Fgc9QKBgQD34aCF1ps93su8q1w2uFe5eZSvu/o66oL5V0wLPQeCZ1FZV4661FlP5nEHEIGAtEkWcSPoTCgWE7fPCTKMyKbhPBZ6i1R8jSjgo64eK7OmdZFuo38L+iE1YvH7YnoBJDvMpPG+qFGQiaiD3+Fa5Z8GkotmXoB7VSVkAUw7/s9JKgOBhAACgYALw0r4cS0307IWg6OPQ1q12Fp7DhufWWHrM88JfsbO7PkPPI+tL+qeZzABjU3LB1+XYNsIv2lw0JJPZYbWQiolOBliOT59DDdfirNKiOYpYzlfVv3q9GWJgQd5HLsP/gZGpIJQV6unyH/AU9LG7A/xLnLaZexfXVTkA/dX5R+bFzALBgcqhkjOOAQDBQADMAAwLQIVAIZ7Qd21DTnpcpEHwY4lFOg9E2BnAhQGktVkce5+nmLXm1XlSWF75yWO4w==</certificate>
+
+</signature-info>
+
+</bips>

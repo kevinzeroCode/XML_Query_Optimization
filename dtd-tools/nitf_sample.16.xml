@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nitf baselang="៥酷殁秊" change.date="October 12, 2001" change.time="14:00" version="-//IPTC//DTD NITF 3.0//EN">
+    <body id="쏔ꮘ窃㭕È쬛抺鵰" style="住갂꾏">
+        <body.head id="뵀ລ렄꼗繕䐼惆">
+            <byline class=" 铇佡浦  ゙  랬ݙ걥䓘뿻끬檍彎땠佌增ܠ ">
+                <virtloc idsrc="覻⛼绤뻧䪍໽놎퉶핾껵뛆㿴俞ꘕ"
+                        value="猹㓠龀￙埩㪶ﶍ蜞ﴵ솼篴纆碴燑">և賨ঽ펓҉杆⼇ᄱࡷ印<alt-code
+                        idsrc="⫮즕跩኎쨪ꚷ駅꼧罢Ꞣ" value="魛徻䆦፸ꨔ"/>
+                </virtloc>
+                <virtloc class=" ࡄ屼縃亄訿碏ὲྚ뾸ꔨ  橲䌬Ȱ駦옮㧰䑆䂀栚泋齄㞦 " id="ᘺϴࢴ댳Ẻ낹"
+                    idsrc="륜Ⅹ䴂툔ᡢ䫿羆탉也ܶ樏" style="㋓岵֠"
+                        value="밃ﴨ⥖褘ᝢ妉㰶ᑝྐ덦ᆳચ">䊽⾋煇串<alt-code idsrc="⅍ḽ↷" value="顉䖌끌"/>
+                </virtloc>੿疍㣭ᴦꅰ偸쌜ፏ</byline>
+            <dateline id="颕淠颤㯼囯">ᓳᶦ䱓쟚౓琇솙햄䈥㍰䧡<location
+                    class=" 鈦쮂碝Ģ휁䋌蹂  ᗪ䴴緒䈷샾퓸Ⴉⱆ  䰭亚અἀ묠寉闒嗳擛芌莐  죁輽缍㤎쓅豤崢ꌟ実隒㲨땵垯到  샑嚭텔嬉ↇ  砣趎팡Ⱆᦕ둄덋깺婮  愶瘬ᶂ쏝蓌眅觐ꁻꩅ뉭ሜ訍拢Ɇ珫  陰  係Ƨ֞逮ڧ鸹軾쯤  럲䱄  䨠簰궑칫䕱冟宨コ "
+                    id="뒫" location-code="敔泝᠙" style="꿭ʑ덵ﬀ䱫㙬붂⸦湄헻ྂ">乼㬻糛먷〰⸇勘举먏<country>➑和嘞튻෦㜃닲簺៙蘹䙃藠</country>
+                    <city>ꄙ젠翅</city>
+                </location>
+                <location
+                    class=" 믪叭筶缀㑏쓑Ꙩ뮼ം葵㰁蹕鮨滿  蘋맘愎덾閘댙娇  眑踌垮賰笅欇  ᘺ嵻헜Ꚍቲ쫭㛁萃땀术꺨줂령  닕쇯  징펳赟ꫮఆ엤莩襵㬄棴課絕숈㚍趧  䝕㹡ꎓ枳  퐤쪸祸ᶤᣓ젷૯  蘪䑔廨ꕒ쭿鿒秮듍頸ꂑ㢗ޜ暃ቅᲡ  躺  쩻䢭땷ῥ殊藏噻걃퀋  쫋ੵ걧ퟎ깨霿ጟ䎩賔骿逗鉜䳦맡듄  䅇돫䕙g㸐  ᱫ罜韻껝촥 "
+                    code-source="ᕦ怂蜽淳ふ悫ᜩ類紪" id="쒀蠠舸ΰ"
+                    location-code="⌀尟㦲꬗焃誌" style="휝걤">퉜⹳<city>薢犨烟騿䙝줢</city>
+                    <region>豴濆憧ꮈ痰馼ᒧ뱰뮓ꒄꨪ뚉䝷</region>
+                </location>
+            </dateline>
+            <abstract id="ܔߋ订뀾骠刞铂">
+                <fn style="⅍ḽ↷">
+                    <body.content/>
+                    <body.content/>
+                    <body.content/>
+                </fn>
+                <hr class=" 퐃䗉峹鬂煨᥌  弇容  䑠끕굕鸞㴈釠ොᩖ骮嵣  끣㬍  ᘺ嵻헜Ꚍቲ쫭㛁萃땀术꺨줂령  妰柔䉲儧  澙赶鄻懙㾒ኬᤕꈆཱུ醽끛Ẩ  鲸뽞㷳쩟ꢟ쨻捥훞  㪆痾䂂砧烳㾝  䒙违遣꯲铂줷쬢앲쫧鏏撊籮 "/>
+            </abstract>
+        </body.head>
+        <body.content id="嬍Ꙩꎙ蟸혷腗ᇼ"/>
+    </body>
+</nitf>

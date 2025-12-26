@@ -1,0 +1,15 @@
+version: '3.8'
+services:
+  postgres:
+    image: postgres:16
+    container_name: pg-xml
+    restart: unless-stopped
+    environment:
+      POSTGRES_USER: xmluser
+      POSTGRES_PASSWORD: xmlpass
+      POSTGRES_DB: xmldb
+    ports:
+      - "5432:5432"
+    volumes:
+      - ./pgdata:/var/lib/postgresql/data
+

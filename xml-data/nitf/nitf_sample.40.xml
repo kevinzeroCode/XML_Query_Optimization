@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nitf change.date="October 12, 2001" class=" 뾂ꧨꤐ냜騷韺쑂샧呝텼荬仰㴁锰 " version="-//IPTC//DTD NITF 3.0//EN">
+    <body>
+        <body.head id="糬鶮ᵤ돲ⱓ連땰ഃ跅쁂昡뭽겯">
+            <hedline>
+                <hl1 style="ⓛ됒У靕蜖">੍✐</hl1>
+                <hl2 class=" 㶆蛑땛全呍ᲁ竛ళ闺肧줁긛쬿ỡ畈  媜  孔탙ቲతΗ籭熲匬რ擣ॷ㥰  ᱫ罜韻껝촥  䪊Ȭ螦鑥譬퉄뒠ퟪ㯷  䏠둇癁厸沂摘メ  쉚巸ম酎  揽ऻ  砣趎팡Ⱆᦕ둄덋깺婮 ">艍职ﮭฏ䌌఩㫼및᝭Ⴈ<num>躆徑풙ૅ決䰤慵갿蛉壡眦</num>
+                </hl2>
+            </hedline>
+            <rights>
+                <rights.startdate id="홭쐀ꨳ㞇俣杧訢딶ᤜ" norm="￐윞嚆䆄櫙⋱">咰巣᧣ꕎẩ돦Ⴖ뱸</rights.startdate>
+                <rights.owner contact="换嚝ቆ" id="ⲉ롆㝑뜊솪쮔뙍넧崃캳">웍蝂슬ᠣ禉๞嵸睱솋ﴟ</rights.owner>︚紻</rights>
+            <dateline class=" Ꝓ崍陭ꔒ的镇গ㶻Ůѷ肒셱췞  뛢䶑赞냔칼猩뷝ے楏蹵碘贂鯬 ">
+                <story.date>⏛粳꽩ퟁǳ</story.date>껩జ風愮矠ꭥ샌竖埾ꙉ鲌ꋣ</dateline>
+            <dateline class=" 샑嚭텔嬉ↇ  ꓰ뻬傿큗ꏮ儞쎘蹦憻㿞愷䈐  蒹횲爸燼䧺琪퀑  핎斤뽡뚧꿺鋊祹  쨖逸醈㪳  劦剿  쪋緤䨸寞炘歎硗髙윹벌텨淒  ψ㐦鈢걄銮䑬㯮䀖䅩巊턙鍞뮶條㹫  졹蝁鶶ਜಭ鹲娧띙뚷浜廳侲䧋  럦ꛅ猊鲄꿒ᙆ  璄জ嚇圸䦣澧㿌儯囓㡺丟  叔퀸猛꧱躈ҫ欒썍 ">ꩻ쨸줰䁝떤၌෸</dateline>
+        </body.head>
+        <body.content/>
+        <body.content>
+            <fn class=" ꪳ " id="㞢䜟쫂什縯疞혏ೝ狓㭾" style="">
+                <body.content id="茶無榣唣蠜ᝨ낪뙈ꀃ盎">
+                    <hr/>
+                </body.content>
+                <body.content>
+                    <table>
+                        <tbody>
+                            <tr>
+                                <td>힗ᶱ璬⍛汏Źʕ桙㫍唢睤輒</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                    <bq/>
+                </body.content>
+                <body.content id="샑嚭텔嬉ↇ"/>
+            </fn>
+            <note id="ổ拴튿嚙떾朠ཕ䴨錪腲燬顨" type="npa">
+                <body.content>
+                    <dl>
+                        <dt>▭뵌⑵韂꾙̪䞅ㅡ玲ೆ⊶옇</dt>
+                    </dl>
+                </body.content>
+                <body.content>
+                    <fn>
+                        <body.content/>
+                    </fn>
+                    <dl>
+                        <dt>޺▔㕯刲</dt>
+                    </dl>
+                </body.content>
+            </note>
+        </body.content>
+    </body>
+</nitf>

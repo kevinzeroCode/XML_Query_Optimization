@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nitf baselang="" change.date="October 12, 2001">
+    <head>
+        <title id="맾샅鐲埣闪런" type="abbrev">鿯</title>
+        <meta content="섿" http-equiv="赮닂뷏ࢿ" id="廉" name="装뎻螦愑뺗踱䡳홋Ⴣᾥത罍"/>
+        <meta content="끩ኡ瀒ﬧ쯔몤윐첹䞁ㇻ쟦闈싦⚰" http-equiv="孔탙ቲతΗ籭熲匬რ擣ॷ㥰"
+            id="먢媒" name="䢷胬䇹숢濾聑跚ஂ왐湪깛㩉ꕖ"/>
+        <iim id="襹嚢끬ꊚ렧舖枉汔嚮홑">
+            <ds id="쌸ᶿ㮛뉱暋잵좘蝯혺㳰裂펔놄뜪犎" num="䃤པ㕊㔬"/>
+        </iim>
+        <pubdata edition.area="㊿넼沾곲ﰈ鿞楯侳蒫ꐦ㟊䟏㻑ㆇ" ex-ref="艑Ủ椣鶒ர耱"
+            issn="ឱᕡ఼ﻑ蹭㓹⺹" issue="ᦽᗽⓨﺸ" number="雔히凉붿"
+            position.section="뜟褪軇ﷰᴆ븮솫" position.sequence="釙퀗鏋䋝臐멚褶㲗"
+            type="other" volume="乲㒳䇹ﮁᐌ㯂⃓ʮ鶔溷"/>
+        <pubdata date.publication="啍ࢁ倠있ꥒ㴴漰݃獑潍웖" edition.area="媎舵굕ᬕ궎"
+            ex-ref="ジ껤냗" issn="縒埴䭸蓲沫￝墾廲缇柗" issue="죪倄웭폐ꄬ굘鐈힘⼁쒌쥉"
+            position.section="Ḧ" position.sequence="颕䴞"/>
+    </head>
+    <body style="ㆾ⁛⡄獓⍽멱৪ꃇ痼⃰訪쌀">
+        <body.head>
+            <byline class=" 첟雎  杭લ  놼됋悋뾭ꥄ愛砼鈏ᷝ籊㧤 ">
+                <person idsrc="๗ᗵ촢䆥텨讹窸" value="⠲♌擗빪ꐍ᎛ࢿ⮆Ợ搽䖨ᐚᨎꢂ">⯴⎑똺ងჇ</person>⧩﵅闒䵬ꇎ</byline>
+            <byline style="㝧똿╕⣈뛧뙏㜒">緁顄嵵鲓</byline>
+            <series series.totalpart="綻횲杦汃鿂"/>
+        </body.head>
+        <body.end id="塮㻰駢塷">
+            <bibliography style="엲褙ઐ">ᔭ㹜祅騑⼍⧡嚦⎝</bibliography>
+        </body.end>
+    </body>
+</nitf>
